@@ -1,0 +1,12 @@
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Release\Fb sScaner.vbproj.GenerateResource.Cache
+D:\my - tools\Fb sScaner\Fb sScaner\bin\Release\Fb Dork v 1.0.exe
+D:\my - tools\Fb sScaner\Fb sScaner\bin\Release\Fb Dork v 1.0.pdb
+D:\my - tools\Fb sScaner\Fb sScaner\bin\Release\Fb Dork v 1.0.xml
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Release\fb_doek.Form1.resources
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Release\fb_doek.Resources.resources
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Release\Fb Dork v 1.0.exe
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Release\Fb Dork v 1.0.xml
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Release\Fb Dork v 1.0.pdb
+E:\git\Fb Dork\Fb sScaner\obj\x86\Release\Fb Dork v 1.0.exe
+E:\git\Fb Dork\Fb sScaner\obj\x86\Release\Fb Dork v 1.0.xml
+E:\git\Fb Dork\Fb sScaner\obj\x86\Release\Fb Dork v 1.0.pdb

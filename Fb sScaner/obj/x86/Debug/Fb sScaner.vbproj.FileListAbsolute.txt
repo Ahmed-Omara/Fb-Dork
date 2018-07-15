@@ -1,0 +1,18 @@
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\bin\Debug\Fb sScaner.exe
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\bin\Debug\Fb sScaner.pdb
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\bin\Debug\Fb sScaner.xml
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\obj\x86\Debug\Fb_sScaner.Form1.resources
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\obj\x86\Debug\Fb_sScaner.Resources.resources
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\obj\x86\Debug\Fb sScaner.vbproj.GenerateResource.Cache
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\obj\x86\Debug\Fb sScaner.exe
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\obj\x86\Debug\Fb sScaner.xml
+C:\Users\zaqt\AppData\Local\Temporary Projects\Fb sScaner\obj\x86\Debug\Fb sScaner.pdb
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Debug\Fb sScaner.vbproj.GenerateResource.Cache
+D:\my - tools\Fb sScaner\Fb sScaner\bin\Debug\Fb Dork v 1.0.exe
+D:\my - tools\Fb sScaner\Fb sScaner\bin\Debug\Fb Dork v 1.0.pdb
+D:\my - tools\Fb sScaner\Fb sScaner\bin\Debug\Fb Dork v 1.0.xml
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Debug\fb_doek.Form1.resources
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Debug\fb_doek.Resources.resources
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Debug\Fb Dork v 1.0.exe
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Debug\Fb Dork v 1.0.xml
+D:\my - tools\Fb sScaner\Fb sScaner\obj\x86\Debug\Fb Dork v 1.0.pdb
