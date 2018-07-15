@@ -5,5 +5,5 @@ Fb Dork : is a tool that collects information about Facebook accounts, and  info
 [-] Information Gathreing Tool
 [-] target : Facebook Accounts
 [-] Coded By Ahmed Omara
-[-] WebSite : www.the-hacker-community.com
+[-] WebSite : https://www.the-hacker-community.com/fb-dork
 [-] publisher : ZAQT
